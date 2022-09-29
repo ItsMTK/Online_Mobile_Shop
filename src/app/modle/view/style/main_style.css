@@ -1,0 +1,60 @@
+		body
+		{
+			margin: 0;
+			padding: 0;
+		}
+
+		.buy_btn
+		{
+				width: 50%;
+				margin: 20px auto;
+				font-size: 20px;
+		}
+
+
+
+		.header
+		{
+
+			border-bottom: 5px solid black;
+
+			border-top: 5px solid black;
+
+			background-image: linear-gradient(rgba( 0 , 0 , 0 , 0.5) , rgba(0 , 0 , 0 , 0.5)) , url('../pictures/rere.jpeg');
+
+			background-position: center;
+
+			background-repeat: no-repeat;
+
+			background-size: cover;
+
+			height: 80vh;
+
+			background-attachment: fixed;
+
+		}
+
+		.title
+		{
+			font-size: 2em;
+		}
+
+		.header-text h1 
+		{
+			font-size: 4em;
+		}
+
+		#products
+		{
+			border-bottom: 5px solid black;
+		}
+
+
+		@media(max-width:  991px)
+		{
+			.header-text h1
+			{
+				font-size: 2em;
+			}
+
+		}

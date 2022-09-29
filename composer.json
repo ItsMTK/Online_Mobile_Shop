@@ -1,0 +1,26 @@
+{
+    "name": "mohammad/php_project",
+
+    "autoload": {
+        "psr-4": {
+            
+            "app\\": "./src/app/",
+
+
+            "app\\modle\\controller\\config\\" : "./src/app/modle/controller/config/"  , 
+
+            
+            "app\\modle\\controller\\" : "./scr/app/modle/controller/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad",
+            "email": "MohammadHamdan.M.T.K@hotmail.com"
+        }
+    ],
+
+    "require": {}
+}
+     
