@@ -21,10 +21,10 @@ project is (MySQL V5.0.1).
   * I usually use PHP command line to run the server `php -S localhost:8000` in **src/ folder**.
   * You can use a web server and put this project in **htdocs path** if you want.
 
-===
+==========================================
 
 ## What's Next!!
 
-===
+==========================================
 
 I know this project is so simple and maybe in the future, there will be a punch of improvements to many stuff.
